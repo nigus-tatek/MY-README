@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nigus</h1>
 <h3 align="center">A passionate am both frontend and backend development</h3>
 
-- 👨‍💻 All of my projects are available at [nigus.w3spaces.com](nigus.w3spaces.com)
+- 👨‍💻 All of my projects are available at [[nigus.w3spaces.com](https://nigus.w3spaces.com/#)](nigus.w3spaces.com)
 
 - 📫 How to reach me **nigustatek2@gmail.com**
 
