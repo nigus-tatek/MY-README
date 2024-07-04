@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NigusTatek&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NigusTatek&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github.com/nigus-tatek/nigus-tatek/blob/main/readmeheader.png?raw=true" alt="GitHub Stats" />
+  <img src="https://github.com/nigus-tatek/nigus-tatek/blob/main/readmeheader.png?raw=true" alt="Top Languages" />
 </p>
 
 <p align="center">
