@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="[[[https://github.com/nigus-tatek/nigus-tatek/blob/main/readmeheader.png?raw=true](https://github.com/nigus-tatek/nigus-tatek/blob/main/intro.png?raw=true](https://github.com/nigus-tatek/nigus-tatek/blob/main/introduction.jpg?raw=true)](https://github.com/nigus-tatek/nigus-tatek/blob/main/readmeheader.png?raw=true)" alt="header image" width="800",height="200" />
+  <img src="https://github.com/nigus-tatek/nigus-tatek/blob/main/readmeheader.png?raw=true)" alt="header image" width="800",height="200" />
 </p>
 
 <p align="center">
