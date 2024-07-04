@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NigusTatek">
+  <a href="https://github.com/nigus-tatek">
     <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
 </p>
