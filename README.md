@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="" alt="header image" width="800" />
+  <img src="https://github.com/nigus-tatek/nigus-tatek/blob/main/IMG_3367.JPG?raw=true" alt="header image" width="800" />
 </p>
 
 <p align="center">
