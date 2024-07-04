@@ -6,25 +6,25 @@
 </p>
 
 <p align="center">
-  <a href="https://nigus.w3spaces.com/#"><img src="https://via.placeholder.com/150x30.png?text=My+Portfolio" alt="Portfolio"></a>
-  <a href="mailto:nigustatek2@gmail.com"><img src="https://via.placeholder.com/150x30.png?text=Email" alt="Email"></a>
+  <a href="https://nigus.w3spaces.com/#"><img src="https://img.shields.io/badge/My%20Portfolio-282C34?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:nigustatek2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/450x200.png?text=GitHub+Stats" alt="GitHub Stats" />
-  <img src="https://via.placeholder.com/450x200.png?text=Top+Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NigusTatek&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NigusTatek&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
   <a href="https://github.com/NigusTatek">
-    <img src="https://via.placeholder.com/150x30.png?text=Follow+on+GitHub" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nigus-tatek"><img src="https://via.placeholder.com/150x30.png?text=LinkedIn" alt="LinkedIn"></a>
-  <a href="https://twitter.com/nigus_tatek"><img src="https://via.placeholder.com/150x30.png?text=Twitter" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/nigus-tatek"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/nigus_tatek"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
