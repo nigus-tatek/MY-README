@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NIGUS  TATEK</h1>
 <h2 align="center">I am Software Engineering Student at Debre Berhan Uiversity Ethiopia</h
-<h2 align="center">I am Passionate in Full-Stack Development</h2
+<h2 align="center"> I am Passionate in Full-Stack Development</h2
 
 
 <p align="center">
