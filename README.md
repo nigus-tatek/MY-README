@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nigus</h1>
+<h1 align="center">Hi 👋, I'm NIGUS  TATEK</h1>
+<h2>  I am Software Engineering Student at Debre Berhan Uiversity Ethiopia</h2
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <p align="center">
