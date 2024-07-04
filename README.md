@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm NIGUS  TATEK</h1>
-<h2 align="center">I am Software Engineering Student at Debre Berhan Uiversity Ethiopia</h2
-<h3 align="center">I am Passionate in Full-Stack Development</h3>
+<h2 align="center">I am Software Engineering Student at Debre Berhan Uiversity Ethiopia</h
+<h2 align="center">I am Passionate in Full-Stack Development</h2
+
 
 <p align="center">
   <img src="https://github.com/nigus-tatek/nigus-tatek/blob/main/introduction.jpg?raw=true" alt="header image" width="800",height="200" />
