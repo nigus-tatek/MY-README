@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 🔥 PROFESSIONAL ANIMATED HEADER BANNER -->
+  <!-- Professional Animated Header -->
   <a href="https://nigus.w3spaces.com/#" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=00ff88&height=280&section=header&text=NIGUS%20TATEK&fontSize=62&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student%20%40%20Debre%20Berhan%20University&descAlignY=65&descSize=23" 
          alt="NIGUS TATEK - Full Stack Developer"
@@ -13,29 +13,28 @@
          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 15px 35px rgba(0, 255, 136, 0.4)'" />
   </a>
 
-  <!-- ✨ PROFESSIONAL INTRODUCTION -->
-  <h1 style="margin-bottom: 8px;">
+  <!-- Introduction -->
+  <h1 style="margin-bottom: 10px;">
     👋 Hello, I'm <span style="color: #00ff88; text-shadow: 0 0 20px #00ff88;">NIGUS TATEK</span>
   </h1>
-  
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=28&duration=3200&pause=900&color=00FF88&center=true&vCenter=true&width=820&height=62&lines=Software+Engineering+Student+at+Debre+Berhan+University;Passionate+Full-Stack+Developer;Building+Scalable+and+User-Centric+Applications;Always+Adaptable+%E2%80%94+From+Concept+to+Deployment" 
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=28&duration=3200&pause=900&color=00FF88&center=true&vCenter=true&width=820&height=62&lines=Software+Engineering+Student+at+Debre+Berhan+University;Passionate+Full-Stack+Developer;Crafting+Scalable+and+User-Centric+Web+Applications;Adaptable+Problem-Solver+%E2%80%94+From+Idea+to+Production" 
        alt="Professional Typing Animation" />
 
   <br><br>
 
-  <!-- SHORT PROFESSIONAL BIO -->
-  <p style="max-width: 720px; font-size: 1.15em; line-height: 1.7; color: #e0e0e0;">
-    A dedicated Software Engineering student with a strong passion for full-stack development. 
-    I specialize in crafting modern, scalable web applications using cutting-edge technologies. 
-    My flexibility across frontend, backend, and database layers allows me to deliver complete solutions 
-    that solve real-world problems.
+  <!-- Professional Bio Paragraph -->
+  <p style="max-width: 720px; font-size: 1.18em; line-height: 1.75; color: #e0e0e0;">
+    I am a passionate Software Engineering student at Debre Berhan University with a strong focus on full-stack development. 
+    I enjoy designing and building modern, scalable web applications using the latest technologies. 
+    My strength lies in seamlessly integrating frontend interfaces, backend logic, and databases to deliver complete, high-quality solutions that address real-world challenges.
   </p>
 
   <br>
 
-  <!-- QUICK LINKS & BADGES -->
+  <!-- Quick Action Buttons -->
   <a href="https://nigus.w3spaces.com/#" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=000000" 
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=000000" 
          alt="Portfolio" 
          style="transition: all 0.3s ease;" 
          onmouseover="this.style.transform='scale(1.08)'" 
@@ -54,8 +53,8 @@
 
   <br><br>
 
-  <!-- GITHUB METRICS SECTION -->
-  <h3 style="margin-bottom: 15px; color: #00ff88;">📊 My GitHub Activity</h3>
+  <!-- GitHub Activity -->
+  <h3 style="margin-bottom: 15px; color: #00ff88;">📊 GitHub Activity Overview</h3>
   
   <img src="https://github-readme-stats.vercel.app/api?username=nigus-tatek&show_icons=true&theme=radical&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&disable_animations=false&locale=en&hide_border=true&border_radius=20" 
        height="195" alt="GitHub Stats" />
@@ -67,7 +66,7 @@
 
   <br><br>
 
-  <!-- TROPHIES & STREAK -->
+  <!-- Trophies & Streak -->
   <img src="https://github-profile-trophy.vercel.app/?username=nigus-tatek&theme=radical&no-frame=true&margin-w=15&column=6&row=1&title=MultiLang,Streak,Commits,PR,Stars,Issues" 
        alt="GitHub Trophies" />
 
@@ -78,8 +77,8 @@
 
   <br><br>
 
-  <!-- SKILLS SECTION - HIGHLY INTERACTIVE -->
-  <h3 style="margin-bottom: 15px; color: #00ff88;">🛠️ Technologies & Tools I Master</h3>
+  <!-- Skills Section -->
+  <h3 style="margin-bottom: 15px; color: #00ff88;">🛠️ Technologies & Tools</h3>
   
   <p>
     <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="52" height="52" style="margin: 8px; transition: all 0.4s ease;" onmouseover="this.style.transform='scale(1.35) rotate(18deg)'" onmouseout="this.style.transform='scale(1)'" /></a>
@@ -100,26 +99,25 @@
 
   <br>
 
-  <!-- PROFESSIONAL ABOUT / STRENGTH SECTION -->
+  <!-- What Sets Me Apart -->
   <details style="background: linear-gradient(90deg, #00ff88, #00b8ff); color: #000; padding: 28px; border-radius: 25px; max-width: 740px; margin: 30px auto; box-shadow: 0 15px 40px rgba(0, 255, 136, 0.5);">
     <summary style="cursor: pointer; font-weight: 700; font-size: 1.45em; text-align: center;">
       ✨ What Sets Me Apart
     </summary>
     <p style="text-align: center; font-size: 1.22em; margin-top: 22px; line-height: 1.7;">
-      I pride myself on being exceptionally adaptable across every domain of software development — 
-      from designing intuitive user interfaces to architecting robust backend systems. 
-      Whether it's rapid prototyping or optimizing production-grade applications, 
-      I thrive on turning ideas into high-quality, scalable solutions.
+      I am highly adaptable and comfortable working across the entire development stack. 
+      Whether designing elegant user interfaces, developing robust APIs, or optimizing databases, 
+      I focus on delivering clean, maintainable, and performant solutions that exceed expectations.
     </p>
   </details>
 
   <br>
 
-  <!-- CALL TO ACTION -->
-  <h2 style="margin: 40px 0 20px; background: linear-gradient(90deg, #00ff88, #00b8ff); -webkit-background-clip: text; color: transparent; font-size: 2em;">
-    Let's Build Something Extraordinary Together
+  <!-- Strong Call to Action -->
+  <h2 style="margin: 45px 0 20px; background: linear-gradient(90deg, #00ff88, #00b8ff); -webkit-background-clip: text; color: transparent; font-size: 2.1em;">
+    Let's Collaborate and Create Impactful Solutions
   </h2>
-  
+
   <a href="https://nigus.w3spaces.com/#" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=000000" 
          alt="View Portfolio" 
@@ -130,8 +128,8 @@
 
   <br><br>
 
-  <!-- CONNECT SECTION - MOVED TO BOTTOM (MODERN & PROFESSIONAL) -->
-  <h3 style="color: #00ff88;">🌍 Connect With Me</h3>
+  <!-- Connect Section -->
+  <h3 style="color: #00ff88;">🌍 Let's Connect</h3>
   
   <p>
     <a href="https://linkedin.com/in/nigus-tatek/" target="_blank">
@@ -157,7 +155,7 @@
     </a>
   </p>
 
-  <!-- FINAL BANNER -->
+  <!-- Final Banner -->
   <br>
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=00ff88&height=130&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Ethiopia%20%7C%20Built%20for%20the%20World&fontSize=27&animation=blinking" 
        alt="Made with ❤️ in Ethiopia" 
@@ -166,8 +164,8 @@
 
 </div>
 
-<!-- PROFESSIONAL FOOTER -->
-<p align="center" style="margin-top: 40px; font-size: 1.05em; opacity: 0.9;">
-  <i>Passionate about clean code, innovative solutions, and continuous growth ☕</i><br>
+<!-- Clean Footer -->
+<p align="center" style="margin-top: 45px; font-size: 1.05em; opacity: 0.9;">
+  <i>Driven by clean code, innovative ideas, and continuous learning ☕</i><br>
   Last updated • April 2026 • Debre Berhan University, Ethiopia 🇪🇹
 </p>
