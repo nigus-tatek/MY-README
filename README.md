@@ -13,7 +13,6 @@
          onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 15px 35px rgba(0, 255, 136, 0.4)'" />
   </a>
 
-  <!-- Introduction -->
   <h1 style="margin-bottom: 12px;">
     👋 Hello, I'm <span style="color: #00ff88; text-shadow: 0 0 20px #00ff88;">NIGUS TATEK</span>
   </h1>
@@ -23,16 +22,14 @@
 
   <br><br>
 
-  <!-- Professional Bio -->
   <p style="max-width: 740px; font-size: 1.2em; line-height: 1.8; color: #e0e0e0;">
     Passionate Software Engineering student at Debre Berhan University, specializing in full-stack development. 
     I design and build modern, scalable web applications with clean architecture and exceptional user experiences. 
-    Proficient across frontend, backend, and database technologies, I deliver end-to-end solutions that drive real impact.
+    Proficient across frontend, backend, and database technologies, I deliver complete end-to-end solutions.
   </p>
 
   <br>
 
-  <!-- Quick Links -->
   <a href="https://nigus.w3spaces.com/#" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=000000" 
          alt="Portfolio" 
@@ -53,27 +50,25 @@
 
   <br><br>
 
-  <!-- GitHub Activity -->
+  <!-- GitHub Activity (Fixed URLs) -->
   <h3 style="margin: 25px 0 15px; color: #00ff88;">📊 GitHub Activity</h3>
-  
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=nigus-tatek&show_icons=true&theme=radical&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&locale=en&hide_border=true&border_radius=20" 
        height="195" alt="GitHub Stats" />
-  
+ 
   &nbsp;&nbsp;
-  
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigus-tatek&layout=compact&theme=radical&hide_title=false&langs_count=8&hide_progress=true&locale=en&hide_border=true&border_radius=20" 
        height="195" alt="Top Languages" />
 
   <br><br>
 
-  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=nigus-tatek&theme=radical&no-frame=true&margin-w=15&column=6&row=1&title=MultiLang,Streak,Commits,PR,Stars,Issues" 
        alt="GitHub Trophies" />
 
   <br><br>
 
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nigus-tatek&theme=radical&hide_border=true&border_radius=20" 
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nigus-tatek&theme=radical&hide_border=true&border_radius=20" 
        alt="GitHub Streak" style="max-width: 100%; border-radius: 20px; box-shadow: 0 10px 30px rgba(255, 120, 0, 0.3);" />
 
   <br><br>
@@ -100,7 +95,6 @@
 
   <br>
 
-  <!-- What Sets Me Apart -->
   <details style="background: linear-gradient(90deg, #00ff88, #00b8ff); color: #000; padding: 30px; border-radius: 25px; max-width: 760px; margin: 35px auto; box-shadow: 0 15px 40px rgba(0, 255, 136, 0.5);">
     <summary style="cursor: pointer; font-weight: 700; font-size: 1.5em; text-align: center;">
       ✨ What Sets Me Apart
@@ -112,7 +106,6 @@
 
   <br>
 
-  <!-- Call to Action -->
   <h2 style="margin: 50px 0 25px; background: linear-gradient(90deg, #00ff88, #00b8ff); -webkit-background-clip: text; color: transparent; font-size: 2.2em;">
     Let's Build Something Exceptional Together
   </h2>
@@ -127,34 +120,14 @@
 
   <br><br><br>
 
-  <!-- Connect -->
   <h3 style="color: #00ff88;">🌍 Connect With Me</h3>
   
   <p>
-    <a href="https://linkedin.com/in/nigus-tatek/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-           alt="LinkedIn" 
-           style="transition: all 0.3s ease;" 
-           onmouseover="this.style.transform='scale(1.1)'" 
-           onmouseout="this.style.transform='scale(1)'" />
-    </a>
-    <a href="https://twitter.com/nigus_tatek" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
-           alt="Twitter" 
-           style="transition: all 0.3s ease;" 
-           onmouseover="this.style.transform='scale(1.1)'" 
-           onmouseout="this.style.transform='scale(1)'" />
-    </a>
-    <a href="https://github.com/nigus-tatek" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
-           alt="GitHub" 
-           style="transition: all 0.3s ease;" 
-           onmouseover="this.style.transform='scale(1.1)'" 
-           onmouseout="this.style.transform='scale(1)'" />
-    </a>
+    <a href="https://linkedin.com/in/nigus-tatek/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://twitter.com/nigus_tatek" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://github.com/nigus-tatek" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" /></a>
   </p>
 
-  <!-- Final Banner -->
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=00ff88&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Ethiopia%20%7C%20Built%20for%20the%20World&fontSize=26&animation=blinking" 
        alt="Made with ❤️ in Ethiopia" 
@@ -163,7 +136,6 @@
 
 </div>
 
-<!-- Footer -->
 <p align="center" style="margin-top: 50px; font-size: 1.05em; opacity: 0.9;">
   <i>Committed to clean code, innovative solutions, and lifelong learning ☕</i><br>
   Debre Berhan University, Ethiopia 🇪🇹
