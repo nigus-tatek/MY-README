@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://github.com/nigus-tatek/nigus-tatek/blob/main/introduction.jpg?raw=true" alt="NIGUS TATEK - Full Stack Developer" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 255, 100, 0.3); margin-bottom: 20px;" />
+  <img src="header.jfif" alt="NIGUS TATEK - Full Stack Developer" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 255, 100, 0.3); margin-bottom: 20px;" />
 
   <!-- Typing Animation -->
   <h1>
