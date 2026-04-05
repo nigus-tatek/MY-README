@@ -8,7 +8,7 @@
     👋 Hi, I'm <span style="color: #00ff88;">NIGUS TATEK</span>
   </h1>
   
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=700&height=60&lines=Software+Engineering+Student+%40+Debre+Berhan+University;Full-Stack+Developer+%F0%9F%92%BB;Passionate+about+Building+Scalable+Apps;Turning+Coffee+into+Code+☕%E2%86%92%E2%9C%A8;Always+Flexible+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="readmeheader.png" alt="Typing SVG" />
 
   <br><br>
 
